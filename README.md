@@ -100,7 +100,7 @@ Aplicación móvil desarrollada en Flutter en colaboración con otro compañero.
 ## Idiomas
 
 - **Español:** Nativo
-- **Inglés:** Lectura técnica fluida y uso de documentación para desarrollo de software
+- **Inglés:** B1 - Lectura técnica fluida y uso de documentación para desarrollo de software
 
 ---
 
