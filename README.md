@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./AA_Banner2.png" alt="Banner de Andrés Aguirre" width="100%" />
+  <img src="./AA_Banner3.png" alt="Banner de Andrés Aguirre" width="100%" />
 </p>
 
 <h1 align="center">Andrés Fernando Aguirre Narváez</h1>
