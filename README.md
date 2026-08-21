@@ -23,7 +23,7 @@
 
 ## Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas de noveno semestre en la Universidad de Nariño.  
+Soy estudiante de Ingeniería de Sistemas de decimo semestre en la Universidad de Nariño.  
 Me interesa el desarrollo de software **fullstack**, el desarrollo de **aplicaciones móviles** y el trabajo con **bases de datos SQL y NoSQL**.
 
 He participado en proyectos web y móviles trabajando en **backend**, **frontend** e **integración de APIs**, incluyendo funcionalidades de inteligencia artificial aplicadas a productos reales.
